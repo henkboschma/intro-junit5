@@ -8,6 +8,7 @@ public class Greating {
     private static final String HELLO = "Hello";
     private static final String WORLD = "World";
 
+    String test= "test";
     public String helloWorld(){
         return HELLO + " " + WORLD;
     }
